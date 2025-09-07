@@ -1,6 +1,4 @@
-Absolutely! Here’s a **full, professional, and highly detailed README** for your Shopper Purchase Prediction KNN project. I’ve structured it to be GitHub-ready, easy to read, and informative for both technical and non-technical users.
 
----
 
 # 🛒 Shopper Purchase Prediction App (KNN)
 
@@ -208,7 +206,7 @@ Made with ❤️ by **Siddhant Patel**
 * Passionate about **Data Science, Machine Learning, and AI**.
 
 
----
+
 
 
 
