@@ -206,9 +206,9 @@ Made with ❤️ by **Siddhant Patel**
 
 * GitHub: [https://github.com/siddhantpatel](https://github.com/siddhantpatel)
 * Passionate about **Data Science, Machine Learning, and AI**.
-* Projects include **KNN, Random Forest, NLP, and Data Analytics applications**.
+
 
 ---
 
 
-Do you want me to do that next?
+
